@@ -149,3 +149,4 @@ License
 ----
 
 MIT To advertise means to make information public. But nowadays advertising doesn’t limit itself by a word ‘publicity’. Modern advertising has a task to show a product in a positive and pleasant way. It has an aim to make us want to buy it. But how and when did advertising appear?
+Should you have any questions, feel free to {a0 href="https://gitter.im/gitlocalize/Lobby"}join our community chat{/a0} or {a1 href="mailto:info@gitlocalize.com"}send us an email{/a1}.
